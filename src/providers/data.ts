@@ -5,6 +5,7 @@ import { Injectable } from '@angular/core';
 export class Data {
 
   constructor(public storage: Storage) {
+    // 
 
   }
 
